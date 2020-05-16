@@ -1,0 +1,8 @@
+"[T]he world would be a better place if more engineers,
+like me, hated technology. The stuff I design, if I'm
+successful, nobody will ever notice. Things will just
+work, and be self-managing."
+
+-- Radia Pearlman, "the Mother of the Internet," IEEE fellow,
+inventor of Spanning-Tree Protocol (STP), TRILL, and TORTIS,
+a programming language for children. [https://bit.ly/2GfUkgO]

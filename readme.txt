@@ -1,0 +1,7 @@
+Serene Lee
+
+I took CSC 111 three semesters ago so I noticed that while going through this assignment I will have to brush up on my programming knowledge for this course. Because I have not reviewed my previous programming materials, this assignment was a bit challenging for me. I think the hardest concept to get my head around was the shifts between the coded message, pad, and the message. 
+
+Another trouble that I experienced was understanding why, in the ShiftLetter function, pad has to be subtracted and not added. Initially, when the equation for the code was code = (code+pad-39)%26+65, the results to the deciphered text was not readable. Now I see that adding pad returns another coded message shifting in the opposite direction of the desired message. With code = (code-pad-39)%26+65, the results returned a readable message. Learning from this big, the diagram provided on the homework page made more sense to me. 
+
+Other troubleshoot was around me not fully understanding syntax of python. Some basic things I need to review is the format of defining functions with parameters, attributes, and for-loops. I believe I was able to complete this assignment through the help of Asmita and Grace.
